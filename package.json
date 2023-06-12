@@ -9,22 +9,24 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@radix-ui/react-dialog": "^1.0.4",
     "@stitches/react": "^1.2.8",
     "@types/node": "18.16.1",
     "@types/react": "18.2.0",
     "@types/react-dom": "18.2.1",
     "axios": "^1.4.0",
-    "eslint": "8.39.0",
+    "embla-carousel-react": "^8.0.0-rc07",
     "eslint-config-next": "13.3.1",
-    "keen-slider": "^6.8.5",
     "next": "13.3.1",
+    "phosphor-react": "^1.4.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "stripe": "^12.3.0",
     "typescript": "5.0.4"
   },
   "devDependencies": {
-    "prettier": "^2.8.8",
+    "@diegonatalo/eslint-config": "^1.0.2",
+    "eslint": "^8.42.0",
     "prettier-plugin-organize-imports": "^3.2.2"
   }
 }
